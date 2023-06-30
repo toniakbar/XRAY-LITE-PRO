@@ -4,10 +4,6 @@
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=red"> </p>
 
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/toniakbar/XRAY-LITE-PRO/main/qq.jpg" />
-</p>
 
 ## INFO
 * Full Multiport VPN 443 & 80 INCLUDE NGINX
@@ -21,14 +17,8 @@
 * Ubuntu 20 LTS ✅
 * Ubuntu 22 LTS ✅
 
-## AUTO CLEAN LOG & KILL BASH
-* Use this code. <pre><code>wget -q -O /usr/local/sbin/clener "https://raw.githubusercontent.com/toniakbar/XRAY-LITE-PRO/main/clener.sh" && chmod +x /usr/local/sbin/clener</code></pre>
-* Create Crontab, Use this code <pre><code>{ crontab -l; echo "0 */2 * * * /usr/local/sbin/clener"; } | crontab -</code></pre>
 
 ## MANUAL SET
-* Reboot Time ❌
-* Bash Cleaning ❌
-* Cleaning Logs ❌
 * Exp Accound ✅
 
 ## PORT INFO
